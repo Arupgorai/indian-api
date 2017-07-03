@@ -1,0 +1,12 @@
+{
+	"MONGO_CONFIG":{
+		"pin":{
+			"URL":"mongodb://localhost/",
+			"DB": "ind_api"
+		},
+		"bank":{
+			"URL":"mongodb://localhost/",
+			"DB": "ind_api"
+		}
+	}
+}
